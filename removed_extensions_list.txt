@@ -1,0 +1,7 @@
+Suspicious/Unnecessary Extensions Removed:
+
+1. Dark Mode - Night Eye  
+   - Reason for Removal:  
+     Although it's a safe extension, it was installed temporarily for the purpose of this task demonstration and is not necessary for daily use.
+
+Total Extensions Removed: 1
