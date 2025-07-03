@@ -1,0 +1,8 @@
+1. Opened the Brave Extensions Manager at brave://extensions.
+2. Reviewed all installed extensions:
+   - Verified source and permissions for each extension.
+   - Identified extensions installed for task demonstration (Dark Mode - Night Eye, Kami, Momentum, Privacy Badger).
+3. Decided to remove "Dark Mode - Night Eye" as it was not needed.
+4. Clicked "Remove" to uninstall the extension.
+5. Verified the removal was successful by checking the updated extensions list.
+6. Took before and after screenshots for documentation.
